@@ -19,4 +19,4 @@ jobs:
       with:
         distribution: 'temurin'
         java-version: '17'
-    - run: java App.java
+    - run: java src/main/java/com/sheridan/App.java
